@@ -1,0 +1,30 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ page session="false" %>
+<html>
+	<head>
+    	<title>Home</title>
+	</head>
+	<body>
+		<h1>insert</h1>
+		<form>
+			<table>
+				<tr>
+					<th>이름</th>
+					<th>폰번</th>
+				<tr>
+				<tr>
+					<td>
+						<input>
+					</td>
+					<td>
+						<input>
+					</td>
+					<td>
+						<button>submit</button>
+					</td>
+				</tr>
+			</table>
+		</form>
+	</body>
+</html>
